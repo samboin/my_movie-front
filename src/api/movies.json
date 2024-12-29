@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "id": "3",
+      "name": "Arrow",
+      "rating": 7.9,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3zGEaUto3gUN9g-XDrS8EHy3Ob2lqHOazoA&s"
+    },
+    {
+      "id": "4",
+      "name": "Rogue",
+      "rating": 7.1,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageUrl": "https://tr.web.img4.acsta.net/pictures/20/07/21/14/08/4051415.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Project Power",
+      "rating": 7.8,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTUxNThmNWQtN2FkMi00MWRlLTljZTQtMjQzMjcxZjM5YzNhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Superman",
+      "rating": 7,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/5/5c/Supret.jpg"
+    }
+  ]
+}
